@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there, I'm [vekoze](https://vekoze.xyz)! 👋
+
+French engineer student specialising in cybersecurity, having fun programming stuffs.
+
+###📫 How to reach me:
+
+vekoze@proton.me
 
 <!--
 **Vekoze/vekoze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
