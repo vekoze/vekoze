@@ -1,6 +1,6 @@
 ## Hi there, I'm [vekoze](https://vekoze.xyz)! 👋
 
-French engineer student specialising in cybersecurity, having fun programming stuffs.
+French engineering student specialising in cybersecurity, having fun programming stuffs.
 
 ### 📫 How to reach me:
 
