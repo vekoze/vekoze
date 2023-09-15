@@ -1,10 +1,10 @@
 ## Hi there, I'm [vekoze](https://vekoze.xyz)! 👋
 
-French engineering student specialising in cybersecurity, having fun programming stuffs.
+Cybersecurity-focused engineering student, having fun programming stuffs, c++ enthusiast.
 
 ### 📫 How to reach me:
 
-vekoze@proton.me
+vekxze@proton.me
 
 <!--
 **Vekoze/vekoze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
